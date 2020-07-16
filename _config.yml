@@ -2,11 +2,11 @@ title: Kelvin Waters # your name (or website title) here
 logo: "/images/kelvin waters.jpg?raw=true" # your photo (or logo) here
 name: Kelvin Waters
 description: > Data Science Portfolio # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+#   First description 
+#   <br><br>
+#   Second description 
+#   <br><br>
+#   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 # Site Author
 author:
 name      : Kelvin Waters
